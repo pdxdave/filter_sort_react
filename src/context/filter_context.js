@@ -6,7 +6,6 @@ import {
     SORT_PRODUCTS,
     FILTER_PRODUCTS,
     UPDATE_FILTERS,
-    CLEAR_FILTERS,
 } from '../actions'
 
 import { useProductsContext } from './products_context'

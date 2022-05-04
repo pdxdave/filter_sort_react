@@ -10,7 +10,6 @@ const Filter = () => {
       category,
     },
     updateFilters,
-    clearFilters,
     all_products
   } = useFilterContext()
 
